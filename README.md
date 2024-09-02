@@ -16,7 +16,7 @@ CSS: Styling the game board and UI.
 JavaScript: Handling game logic, DOM manipulation, and events.
 Local Storage: Persistent score tracking.
 🛠️ Installation
-Clone the repository: git clone https://github.com/meedGhoufrane/tic-tac-toe-20x20.git
+Clone the repository: git clone https://github.com/meedGhoufrane/tic-tac-toe-Game.git
 Navigate to the project directory: cd tic-tac-toe-20x20
 Open index.html in your web browser: You can double-click on index.html or use a local server like Live Server in VS Code.
 
