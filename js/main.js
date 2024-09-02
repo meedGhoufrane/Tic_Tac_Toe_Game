@@ -12,7 +12,7 @@
     let board = Array(gridSize * gridSize).fill(null);
     let currentPlayer = 'X';
     let scoreX = 0;
-    let scoreO = 0;
+    let scoreO = 0; 
 
     if (localStorage.getItem('scoreX')) {
         scoreX = parseInt(localStorage.getItem('scoreX'));
