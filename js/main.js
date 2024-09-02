@@ -1,7 +1,7 @@
     const gameBoard = document.getElementById('gameBoard');
     const turnIndicator = document.getElementById('turnIndicator');
 
-    // restartBtn
+    // restartBtn 
     const restartBtn = document.getElementById('restartBtn');
 
     // result
