@@ -4,7 +4,7 @@
     // restartBtn 
     const restartBtn = document.getElementById('restartBtn');
 
-    // result
+    // result 
     const scoreXDisplay = document.getElementById('scoreX');
     const scoreODisplay = document.getElementById('scoreO');
 
