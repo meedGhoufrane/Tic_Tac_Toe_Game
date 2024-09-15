@@ -11,7 +11,7 @@ Score Tracking: Stores and updates player scores using local storage, so your pr
 Responsive Design: Playable on desktops, tablets, and smartphones.
 Restart Button: Easily restart the game without refreshing the page.
 🚀 Technologies Used
-HTML: Structuring the game interface.
+HTML: Structuring the game interface. 
 CSS: Styling the game board and UI.
 JavaScript: Handling game logic, DOM manipulation, and events.
 Local Storage: Persistent score tracking.
