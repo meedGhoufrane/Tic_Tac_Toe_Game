@@ -9,7 +9,7 @@ Dynamic Board: Generated via JavaScript for scalability and flexibility.
 Win Detection: Automatically detects when a player aligns five symbols in any d irection. 
 Score Tracking: Stores and updates player scores using local storage, so your progress is saved.
 Responsive Design: Playable on desktops, tablets, and smartphones.
-Restart Button: Easily restart the game without refreshing the page.
+Restart Button: Easily restart the game without refreshing the page. 
 🚀 Technologies Used
 HTML: Structuring the game interface. 
 CSS: Styling the game board and UI.
