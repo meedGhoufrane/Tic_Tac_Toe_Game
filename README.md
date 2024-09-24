@@ -4,7 +4,7 @@
 Tic Tac Toe 20x20 is an expanded version of the classic Tic Tac Toe game, featuring a 20x20 grid. Two players compete to align five consecutive symbols (X or O) in any row, column, or diagonal. Built using HTML, CSS, and JavaScript, this game is both engaging and visually appealing.
  
 🌟 Features 
-20x20 Grid: A large playing field for enhanced strategy and fun.  
+20x20 Grid: A large playing field for enhanced strategy and fun.   
 Dynamic Board: Generated via JavaScript for scalability and flexibility. 
 Win Detection: Automatically detects when a player aligns five symbols in any d irection. 
 Score Tracking: Stores and updates player scores using local storage, so your progress is saved.
