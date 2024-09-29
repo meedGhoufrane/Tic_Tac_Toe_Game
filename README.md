@@ -5,7 +5,7 @@ Tic Tac Toe 20x20 is an expanded version of the classic Tic Tac Toe game, featur
  
 🌟 Features 
 20x20 Grid: A large playing field for enhanced strategy and fun.   
-Dynamic Board: Generated via JavaScript for scalability and flexibility. 
+Dynamic Board: Generated via JavaScript for scalability and flexibility.  
 Win Detection: Automatically detects when a player aligns five symbols in any d irection. 
 Score Tracking: Stores and updates player scores using local storage, so your progress is saved.
 Responsive Design: Playable on desktops, tablets, and smartphones.
